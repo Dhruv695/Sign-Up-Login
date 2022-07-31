@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #e0ecea;;
+}
+h3{
+    color: #66BFBF;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+#myform{
+    border-radius: 5%;
+    
+    
+}
+.btn{
+    background-color: #11999e;
+    border: #11999e;
+    
+}
+.btn:hover{
+    background-color: #66BFBF;
+}
